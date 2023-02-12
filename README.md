@@ -44,5 +44,9 @@
  <img src = "https://github.com/AlenaLes/tools-logos/blob/main/Superset_logo.svg" title="Superset" width="40" height="50">
  <img src = "https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tableau" width="40" height="50">
 </div> 
-  
+ 
+ ---
+ ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlenaLes&theme=dark&background=101010)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaLes&layout=compact&theme=dark&background=404040)](https://github.com/anuraghazra/github-readme-stats)
