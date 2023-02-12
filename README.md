@@ -1,12 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="200"/>
-</div>
+### Hi! I'm Alena Lesikhina 👋 
 
-<div id="header" align="center">
-<H1> Hi! I'm Alena Lesikhina 👋 </H1>
-</div>
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://hh.ru/resume/602c987dff0b8263990039ed1f6d6750396b51">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge">
   </a>
