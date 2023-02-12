@@ -1,9 +1,9 @@
 <div id="header" align="center">
-<H1> Hi! I'm Alena Lesikhina 👋 </H1>
+  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="200"/>
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="300"/>
+<H1> Hi! I'm Alena Lesikhina 👋 </H1>
 </div>
 
 <div id="badges" align="center">
@@ -16,10 +16,33 @@
 </div>
 
 ---
-Talking about me:
+### :woman_technologist: About Me :
 
 - 🔭 I'm looking for a job in analytics
 - 🌱 I’m currently continuing to develop in SQL and Python
 - 🤝 Will be glad to collororate
 - 📫 How to reach me: alena.lesikhina@gmail.com
+
+---
+### :hammer_and_wrench: Languages and Tools :
+
+<div align="left">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" width="40" height="40">
+ <img src = "https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Exel" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSC" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" width="40" height="40">
+ <img src = "https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" width="40" height="40">
+ <img src = "https://github.com/AlenaLes/tools-logos/blob/main/airflow-svgrepo-com.svg" title="Airflow" width="40" height="40">
+ <img src = "https://github.com/AlenaLes/tools-logos/blob/main/Superset_logo.svg" title="Superset" width="40" height="50">
+ <img src = "https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tableau" width="40" height="50">
+</div> 
+  
 
