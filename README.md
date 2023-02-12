@@ -47,6 +47,6 @@
  
  ---
  ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlenaLes&theme=dark&background=101010)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlenaLes&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaLes&layout=compact&theme=dark&background=404040)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaLes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
