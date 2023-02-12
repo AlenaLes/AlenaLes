@@ -1,6 +1,5 @@
 ### Hi! I'm Alena Lesikhina 👋 
 
-
 <div id="badges" align="left">
   <a href="https://hh.ru/resume/602c987dff0b8263990039ed1f6d6750396b51">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge">
@@ -10,7 +9,6 @@
   </a>
 </div>
 
----
 ### :woman_technologist: About Me :
 
 - 🔭 I'm looking for a job in analytics
