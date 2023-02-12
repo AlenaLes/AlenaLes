@@ -9,7 +9,7 @@
   </a>
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 
 - 🔭 I'm looking for a job in analytics
 - 🌱 I’m currently continuing to develop in SQL and Python
@@ -17,7 +17,7 @@
 - 📫 How to reach me: alena.lesikhina@gmail.com
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div align="left">
  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40">
@@ -36,7 +36,7 @@
 </div> 
  
  ---
- ### :fire: My Stats :
+ ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlenaLes&theme=dracula)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaLes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
