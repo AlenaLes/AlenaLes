@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1> Hi! I'm Alena Lesikhina 👋 </h2>
   <h3> Junior product analyst </h3>
-
+</div>
 <div id="badges" align="center">
   <a href="https://hh.ru/resume/602c987dff0b8263990039ed1f6d6750396b51">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge">
@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
 </div>
+  
 
-<div id="header" align="left">
 ### About Me :
 
 - I'm looking for a job as a junior data analytic
