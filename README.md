@@ -41,4 +41,4 @@
  
  ---
  ### My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlenaLes&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlenaLes&theme=nord_dark)
