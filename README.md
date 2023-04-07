@@ -3,7 +3,7 @@
   <h3> Junior product analyst </h3>
 </div>
 <div id="badges" align="center">
-  <a href="[https://hh.ru/resume/602c987dff0b8263990039ed1f6d6750396b51](https://hh.ru/resume/95b7b114ff0b2f69c90039ed1f59334330316f?hhtmFrom=resume_list)">
+  <a href="https://hh.ru/resume/95b7b114ff0b2f69c90039ed1f59334330316f?hhtmFrom=resume_list">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D1%91%D0%BD%D0%B0-%D0%BB%D0%B5%D1%81%D0%B8%D1%85%D0%B8%D0%BD%D0%B0-3853b0260/">
