@@ -14,7 +14,7 @@
 
 ### About Me :
 
-- Working as a junior data analyst
+- Working as a data analyst
 - I’m currently continuing to develop in SQL and Python
 - Will be glad to colloborate
 - How to reach me: alena.lesikhina@gmail.com
