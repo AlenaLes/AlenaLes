@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> Hi! I'm Alena Lesikhina 👋 </h2>
-  <h3> Junior product analyst </h3>
+  <h3> Product analyst </h3>
 </div>
 <div id="badges" align="center">
   <a href="https://hh.ru/resume/95b7b114ff0b2f69c90039ed1f59334330316f?hhtmFrom=resume_list">
