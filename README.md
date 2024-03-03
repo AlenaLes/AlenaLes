@@ -26,7 +26,8 @@
  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40">
  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy" width="40" height="40">
  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40">
- <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title="SQL" width="40" height="40">
+ <img src = "https://github.com/AlenaLes/tools-logos/blob/main/icons8-postgresql.svg" title="SQL" width="40" height="40">
+ <img src = "https://github.com/AlenaLes/tools-logos/blob/main/icons8-dbeaver.svg" title="Dbeaver" width="40" height="40">
  <img src = "https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Exel" width="40" height="40">
  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSC" width="40" height="40">
  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" width="40" height="40">
