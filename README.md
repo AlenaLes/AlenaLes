@@ -39,7 +39,3 @@
  <img src = "https://github.com/AlenaLes/tools-logos/blob/main/tableau-software%20(1).svg" title="Tableau" width="40" height="40">
  <img src = "https://github.com/AlenaLes/tools-logos/blob/main/airflow-svgrepo-com.svg" title="Airflow" width="40" height="40">
 </div> 
- 
- ---
- ### My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlenaLes&theme=nord_dark)
