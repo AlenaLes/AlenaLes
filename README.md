@@ -14,8 +14,10 @@
 
 ### About Me :
 
-- Working as a data analyst
-- How to reach me: alena.lesikhina@gmail.com
+- A Middle-level analyst with experience building product analytics from scratch and developing existing solutions.
+- I specialize in analytics, automating reports/ analytical tasks, and building analytics event maps.
+- I help the product make data-driven decisions: I build reports, research user behavior, identify growth opportunities, and visualize metrics in dashboards.
+- How to reach me: alena.lesikhina@gmail.com     |  tg @Alena_lesi
 
 ---
 ### Languages and Tools :
