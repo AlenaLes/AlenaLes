@@ -39,3 +39,12 @@
  <img src = "https://github.com/AlenaLes/tools-logos/blob/main/tableau-software%20(1).svg" title="Tableau" width="40" height="40">
  <img src = "https://github.com/AlenaLes/tools-logos/blob/main/airflow-svgrepo-com.svg" title="Airflow" width="40" height="40">
 </div> 
+
+- SQL (Postgresql, Mysql)
+- Python 
+- Airflow
+- Grafana | Superset
+- API | site parsing
+- A/B tests
+- Amplitude
+- Excel
