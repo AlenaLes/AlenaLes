@@ -6,7 +6,7 @@
   <a href="https://hh.ru/resume/95b7b114ff0b2f69c90039ed1f59334330316f?hhtmFrom=resume_list">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge">
   </a>
-  <a href="www.linkedin.com/in/alena-lesikhina">
+  <a href="https://www.linkedin.com/in/alena-lesikhina">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
     <a href="https://t.me/Alena_lesi">
