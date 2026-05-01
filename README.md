@@ -22,24 +22,20 @@
 ---
 ### Languages and Tools :
 
-<div align="left">
- <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40">
- <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy" width="40" height="40">
- <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40">
- <img src = "https://github.com/AlenaLes/tools-logos/blob/main/icons8-postgresql.svg" title="SQL" width="40" height="40">
- <img src = "https://github.com/AlenaLes/tools-logos/blob/main/png-clipart-mysql-mysql.png" title="MySQL" width="40" height="40">
- <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" width="40" height="40">
- <img src = "https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" width="40" height="40">
- <img src = "https://github.com/AlenaLes/tools-logos/blob/main/tableau-software%20(1).svg" title="Tableau" width="40" height="40">
- <img src = "https://github.com/AlenaLes/tools-logos/blob/main/airflow-svgrepo-com.svg" title="Airflow" width="40" height="40">
- <img src = "https://github.com/AlenaLes/tools-logos/blob/main/amplitude_logo_icon_168655.png" title="Amplitude" width="40" height="40">
-</div> 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-OLTP%20Database-blue?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-OLTP%20Database-blue?logo=mysql&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-Data%20Warehouse-red?logo=amazonredshift&logoColor=white)
 
-- SQL (Postgresql, Mysql)
-- Python 
-- Airflow
-- Grafana | Superset
-- API | site parsing
-- A/B tests
-- Amplitude
-- Excel
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-green?logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-ETL-red?logo=apacheairflow&logoColor=white)
+
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-orange?logo=grafana&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-BI-orange?logo=apache&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboards-orange?logo=tableau&logoColor=white)
+
+![Amplitude](https://img.shields.io/badge/Amplitude-Events%20%7C%20Funnels%20%7C%20A%2FB-blueviolet?logo=amplitude&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-Events%20%7C%20Funnels-orange?logo=googleanalytics&logoColor=white)
+
+![API](https://img.shields.io/badge/API-Data%20Collection-green)
+![A/B Tests](https://img.shields.io/badge/A%2FB%20Tests-Experimentation-purple)
+![Excel](https://img.shields.io/badge/Excel-Data-green?logo=microsoft-excel&logoColor=white)
